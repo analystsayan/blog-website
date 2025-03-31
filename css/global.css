@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    min-height: 100vh;
+    min-height: 100dvh;
+    background-color: black;
+    padding: min(2rem, 5vw);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1em;
+}
+
+body h1 {
+    font-size: 2rem;
+    color: whitesmoke;
+}
+
+body p {
+    font-size: 1rem;
+    color: #616161;
+
+    a {
+        /* text-decoration: none; */
+        color: #c2ffbb;
+    }
+}
