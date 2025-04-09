@@ -17,7 +17,7 @@ Welcome to the story of **PicShare**, a photo-sharing platform that evolves from
 ### 📡 Client-Server Architecture
 PicShare starts as a simple web app. When a user opens it on their phone or computer (client), they send requests to your server. The server processes those requests (e.g., uploading a photo) and sends back responses.
 
-![Client-Server Architecture](/images/Learn-System-Design/clint-server.png)
+![Client-Server Architecture](/images/learn-system-design/clint-server.png)
 Image credit - chatGPT
 
 ---
