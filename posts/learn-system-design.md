@@ -227,4 +227,4 @@ Image credit - yt/bytebytego
 
 This post is inspired by - [Ashis Pratap Singh](youtube.com/@ashishps_1)
 
-👉 **Follow me for more beginner-friendly system design content.**
+👉 **Follow for more beginner-friendly system design content.**
