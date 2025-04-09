@@ -1,9 +1,10 @@
 ---
 title: "How to build a blogging website for FREE"
 date: "2025-04-09"
-category: ["Computer Science","tech"]
-description: "A"
+category: "blogging-website"
+description: "A detailed report how to build a blogging website for FREE in simple easy steps"
 ---
+
 
 # 🛠️ How I Built My Own Blog Website Using Next.js and Markdown (No Paid Database!)
 
