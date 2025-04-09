@@ -82,7 +82,7 @@ export default function PostPage({ frontmatter, contentHtml, suggestions }) {
                 <ul>
                     {suggestions.map((post) => (
                         <li key={post.slug}>
-                            <Link href={`/blog/${post.slug}`}>{post.title}</Link>
+                            <Link href={`/${post.slug}`}>{post.title}</Link>
                         </li>
                     ))}
                 </ul>
